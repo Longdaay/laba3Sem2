@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Longday\source\repos\BinaryTree\Source.cpp(87,15): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\BinaryTree\Source.cpp(441,12): warning C4101:  temp_value: неиспользованная локальная переменная
+C:\Users\Longday\source\repos\BinaryTree\Source.cpp(597,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\BinaryTree\Source.cpp(646,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Longday\source\repos\BinaryTree\Source.cpp(1318,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  BinaryTree.vcxproj -> C:\Users\Longday\source\repos\BinaryTree\Debug\BinaryTree.exe
